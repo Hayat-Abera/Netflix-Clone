@@ -1,4 +1,4 @@
-import '../Header/header.css'
+import './header.css'
 import NetflixLogo from '../../assets/Images/NetflixLogo.svg'
 import SearchIcon from '@mui/icons-material/Search';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
